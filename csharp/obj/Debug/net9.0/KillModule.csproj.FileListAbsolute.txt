@@ -1,0 +1,14 @@
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\runtime\KillModule.exe
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\runtime\KillModule.deps.json
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\runtime\KillModule.runtimeconfig.json
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\runtime\KillModule.dll
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\runtime\KillModule.pdb
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.AssemblyInfoInputs.cache
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.AssemblyInfo.cs
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.csproj.CoreCompileInputs.cache
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.dll
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\refint\KillModule.dll
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.pdb
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.genruntimeconfig.cache
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\ref\KillModule.dll

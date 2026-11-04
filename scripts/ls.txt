@@ -1,0 +1,5 @@
+ls
+ls -lah
+ls -a
+ls -a -h -l
+ls -okdf

@@ -1,0 +1,6 @@
+ls
+rev
+rev readme.txt
+cd home
+ls
+rev notes.txt

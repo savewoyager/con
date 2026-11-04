@@ -1,0 +1,7 @@
+ls
+ls -lah
+ls -a
+cd home
+ls
+cd /
+ls

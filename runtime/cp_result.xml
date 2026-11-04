@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<result>
+<directory name="home_copy">
+			<file name="hello.txt" type="base64">SGVsbG8h</file>
+			<file name="notes.txt" type="base64">ABCDEF</file>
+		</directory>
+</result>

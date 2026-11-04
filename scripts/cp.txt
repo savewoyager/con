@@ -1,0 +1,7 @@
+ls
+cp readme.txt readme_copy.txt
+ls
+cp -gf
+cp home home_copy
+cp -r home home_copy
+ls

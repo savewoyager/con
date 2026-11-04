@@ -1,0 +1,8 @@
+ls
+cd gfdg
+cd home
+ls
+cd /
+ls
+cd /deep/home
+ls
