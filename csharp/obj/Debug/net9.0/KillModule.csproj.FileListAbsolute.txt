@@ -12,3 +12,4 @@ C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\re
 C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.pdb
 C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.genruntimeconfig.cache
 C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\ref\KillModule.dll
+C:\Users\ajaza\Desktop\MIREA2KURS\Config_manage_Z\kon\csharp\obj\Debug\net9.0\KillModule.sourcelink.json
