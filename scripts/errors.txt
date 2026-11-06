@@ -1,3 +1,8 @@
 who
 who -f
 hfd
+cd dvor
+ls -i
+rev pp.txt
+cp text.txt
+cp home
