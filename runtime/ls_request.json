@@ -6,10 +6,7 @@
 "h": false
 },
 "entries": [
-{"name": "home","type": "directory","size": 0},
-{"name": ".anonymus","type": "file","size": 8},
-{"name": "readme.txt","type": "file","size": 12},
-{"name": "data.bin","type": "file","size": 1478},
-{"name": "deep","type": "directory","size": 0}
+{"name": "hello.txt","type": "file","size": 8},
+{"name": "notes.txt","type": "file","size": 6}
 ]
 }

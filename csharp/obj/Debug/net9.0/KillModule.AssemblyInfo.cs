@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KillModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3942871dba0ad995806310dc648d3c73ea602a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+455885d39504580e75ae3b6c32d53cb72c2e6bb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("KillModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KillModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,57 +10,102 @@ import javax.xml.transform.stream.StreamResult;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-// Это обычный многострочный комментарий. 
-// 
-/*
- * Класс для управления аккаунтом пользователя.
- * Автор: Иван
- */
 
+class CpModule {
 
-public class CpModule {
-	public static int calculateDiscount(int u, int p, int count, int age, double price, int status, int s1, int s2) {
-        int res = 0;
-		res = s1;
-		res = s2;
-		res = 6;
+    static String global_name = "Тимур";
+    static int MAXcount = 100;
+    static int USERstatus = 1;
+    static int BadVariableName = 10;
+    static int x = 10;
+    static int y = 20;
+    static int z = x + y;
+
+    // Это обычный многострочный комментарий.
+    //
+    /*
+     * Класс для управления аккаунтом пользователя.
+     * Автор: Тимур М ИКБО-64-25 (не верьте Иванам)
+     */
+
+    public static int calculateDiscount(int U, int P, int COUNT, int AGE, double PRICE, int STATUS, int s1, int s2) {
+        int RES = 0;
+        int unusedVariable = 100;
+        int AnotherUnusedVariable = 200;
+        RES = s1;
+        RES = s2;
+        RES = 6;
+
         // увеличил цикломатическую сложность
-        if (u != 0) {
-            if (u == 1) {
-                if (p == 20) {
-                    if (count > 5) {
-                        res = 20;
+        if (U != 0) {
+            if (U == 1) {
+                if (P == 20) {
+                    if (COUNT > 5) {
+                        RES = 20;
                     } else {
-                        res = 15;
+                        RES = 15;
                     }
-                } else {// Если пользователь премиум (статус 1)
-                    if (p == 10) {
-                        res = 10;
+                } else {
+                    if (P == 10) {
+                        RES = 10;
                     } else {
-                        res = 5;
+                        RES = 5;
                     }
                 }
             } else {
-                if (age > 2 && (price > 100.0 || count > 10)) {
-                    res = 8;
+                if (AGE > 2 && (PRICE > 100.0 || COUNT > 10)) {
+                    RES = 8;
                 } else {
-                    if (status == 1) {
-                        res = 5;
+                    if (STATUS == 1) {
+                        RES = 5;
                     } else {
-                        res = 0;
+                        RES = 0;
                     }
                 }
             }
         } else {
-            if (status == 1) {
-                res = 3;
+            if (STATUS == 1) {
+                RES = 3;
             } else {
-                res = 0;
+                RES = 0;
             }
         }
 
-        return res;
+        return RES;
     }
+
+    public static int GetDiscount(int UserID, int UserAge) {
+        int RESULT = UserID + UserAge;
+        return RESULT;
+    }
+
+    public static String GET_USER_NAME() {
+        String USER_NAME = "Timur";
+        return USER_NAME;
+    }
+
+    public static void BadFunctionName() {
+        int A = 10;
+        int B = 20;
+        int C = A + B;
+        System.out.println(C);
+    }
+
+    public static int calculate_something_very_important(int first_value, int second_value) {
+        int result_value = first_value + second_value;
+        return result_value;
+    }
+
+    public static void f(int a, int b, int c) {
+        int x = a + b;
+        int y = b + c;
+        int z = x + y;
+    }
+
+    public static void PrintMessage() {
+        System.out.println("Hello");
+    }
+
     public static void main(String[] args) {
         if (args.length != 2) {
             System.err.println("Usage: CpModule input.xml output.xml");
